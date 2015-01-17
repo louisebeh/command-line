@@ -1,0 +1,1 @@
+grep = enables the search for one or more files that contain a pattern; grep selects files that match a specified pattern and prints them. 
